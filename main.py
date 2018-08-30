@@ -1,5 +1,5 @@
 import hello # I think we prefer this
-from hello import world # instead this
+from hello import world # instead of this
 import itertools
 
 def myfunc():
