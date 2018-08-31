@@ -20,3 +20,5 @@ Creating a brand new environment:
 `conda create --name mynewenv`
 
 hello
+
+everyone
