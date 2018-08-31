@@ -29,7 +29,7 @@ def main():
     print(myfunc2())
 
     # Basic for-loop
-    for i in range(3):
+    for _i in range(3):
         print("#")
 
     # Itertools combinations!
@@ -37,4 +37,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
