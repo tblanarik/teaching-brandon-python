@@ -18,3 +18,5 @@ Updating all python packages:
 Creating a brand new environment:
 
 `conda create --name mynewenv`
+
+hello
